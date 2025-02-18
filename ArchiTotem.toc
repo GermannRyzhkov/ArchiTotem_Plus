@@ -2,9 +2,9 @@
 ## Title: ArchiTotem
 ## Notes: All totems on 4 barslots!
 ## Notes-ruRU: Все тотемы в 4 ячейках!
-## Version: 1.41
+## Version: 1.42
 ## Author: Nahoom of Dragonblight EU
-## X-Credits: RoadBlock, Lichery - localizations
+## X-Credits: RoadBlock, Voodooboy, Lichery - localizations
 ## SavedVariablesPerCharacter: ArchiTotem_TotemData, ArchiTotem_Options
 
 Locale\Localization.xml
